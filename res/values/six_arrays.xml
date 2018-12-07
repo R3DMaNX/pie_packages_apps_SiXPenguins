@@ -833,6 +833,7 @@
         <item>2</item>
     </string-array>
 
+    <!-- Carbon Gestures -->
     <string-array name="carbon_gestures_button_entries" translatable="false"> 
         <item>@string/carbon_gesture_disabled</item> 
         <item>@string/carbon_gesture_back</item> 

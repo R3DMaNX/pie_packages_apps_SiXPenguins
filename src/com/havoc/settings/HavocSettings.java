@@ -38,7 +38,7 @@ public class HavocSettings extends SettingsPreferenceFragment {
         final String KEY_DEVICE_PART = "device_part";
         final String KEY_DEVICE_PART_PACKAGE_NAME = "org.omnirom.device";
 
-        addPreferencesFromResource(R.xml.havoc_settings);
+        addPreferencesFromResource(R.xml.six_settings);
 
         // DeviceParts
         if (!Utils.isPackageInstalled(getActivity(), KEY_DEVICE_PART_PACKAGE_NAME)) {

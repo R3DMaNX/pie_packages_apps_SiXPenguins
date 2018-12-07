@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2018 Havoc-OS
-
+     Copyright (C) 2018 SixROM
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="havoc_settings_title">Havoc Settings</string>
+    <string name="six_settings_title">Six Settings</string>
 
     <!-- Categories -->
     <string name="about_title">About</string>
