@@ -18,14 +18,14 @@
     <string name="six_settings_title">Six Settings</string>
 
     <!-- Categories -->
-    <string name="about_title">About</string>
+    <string name="about_title">About Rom</string>
     <string name="animations_title">Animations</string>
     <string name="buttons_title">Buttons</string>
     <string name="display_title">Screen</string>
     <string name="gestures_title">Gestures</string>
     <string name="ime_title">IME Settings</string>
     <string name="interface_title">Interface</string>
-    <string name="lockscreen_title">Lock Screen</string>
+    <string name="lockscreen_title">Lockscreen</string>
     <string name="misc_title">Miscellaneous</string>
     <string name="navigation_title">Navigation Bar</string>
     <string name="notifications_title">Notifications</string>
@@ -35,7 +35,7 @@
     <string name="statusbar_title">Status Bar</string>
     <string name="system_title">System</string>
     <string name="weather_title">Weather</string>
-    <string name="volume_title">Volume Rockers</string>
+    <string name="volume_title">Volume Rocker</string>
     <string name="device_part_title">Device</string>
     
     <!-- General strings -->
