@@ -18,6 +18,13 @@
     android:title="@string/about_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+     <!-- SiXROM Header -->
+     <PreferenceScreen android:key="six_header"
+         android:layout="@layout/six_about_header">
+     <intent android:action="android.intent.action.VIEW"
+         android:data="https://github.com/SiX-Pie" />
+     </PreferenceScreen>
+
      <!-- Six Changelog -->
      <Preference 
          android:key="six_changelog"

@@ -18,6 +18,13 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/six_settings_title" >
 
+     <!-- Header -->
+     <PreferenceScreen android:key="six_header"
+         android:layout="@layout/six_about_header">
+     <intent android:action="android.intent.action.VIEW"
+         android:data="https://mewe.com/join/r3ds" />
+     </PreferenceScreen>
+
         <!-- Status Bar -->
         <Preference
             android:key="statusbar_category"
