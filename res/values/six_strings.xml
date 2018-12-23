@@ -1388,4 +1388,7 @@
     <string name="device_maintainers_dialog">Six maintainer</string>
     <string name="device_maintainer_default">R3Ds</string>
 
+    <!-- QS background opacity -->
+    <string name="qs_panel_alpha_title">Opacity</string>
+
 </resources>
