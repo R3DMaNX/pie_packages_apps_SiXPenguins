@@ -1358,4 +1358,34 @@
     <string name="usb_default_config_title">USB configuration</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
 
+    <!-- About -->
+    <string name="about_summary">Information about six pie rom</string>
+    <string name="weblinks_category">Helpful links</string>
+    <string name="info_category">Info</string>
+    <string name="six_telegram_title">Telegram chat</string>
+    <string name="six_telegram_summary">Join for help and updates</string>
+    <string name="six_telegram_link" translatable="false">"https://t.me/nephilimrom"</string>
+    <string name="six_log_title">Ongoing Changelog</string>
+    <string name="six_log_summary">Current and work in progress log</string>
+    <string name="six_log_link" translatable="false">"https://github.com/SiX-Pie/changelog/blob/pie-r3ds/Changelog.md"</string>
+    <string name="g_plus_title">Google+ Profile</string>
+    <string name="g_plus_summary">Visit R3Ds Google+</string>
+    <string name="g_plus_link" translatable="false">"https://plus.google.com/u/0/116368221056148312673"</string>
+    <string name="six_github_title">GitHub</string>
+    <string name="six_github_summary">Download and build from source</string>
+    <string name="six_github_link" translatable="false">"https://github.com/Six-Pie"</string>
+    <string name="six_changelog_title">Changelog</string>
+    <string name="six_changelog_summary">View recent changes made to six pie rom</string>
+    <string name="six_downloads_title">Downloads</string>
+    <string name="six_downloads_summary">Visit the six pie rom AFH download page</string>
+    <string name="six_downloads_link" translatable="false">"https://tinyurl.com/ydxa4xry"</string>
+    <string name="six_ota_title">Update center</string>
+    <string name="six_ota_summary">Check for six updates</string>
+    <string name="stats_title">Statistics</string>
+    <string name="stats_summary">(PLACEHOLDER) Opt in/out for anonymous stats</string>
+    <string name="device_maintainer_title">Six maintainer</string>
+    <string name="device_maintainer_dialog">Six maintainer</string>
+    <string name="device_maintainers_dialog">Six maintainer</string>
+    <string name="device_maintainer_default">R3Ds</string>
+
 </resources>

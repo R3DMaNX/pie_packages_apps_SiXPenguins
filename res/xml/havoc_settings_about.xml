@@ -32,4 +32,44 @@
          android:summary="@string/changelog_summary"
          android:fragment="com.android.settings.six.Changelog" />
 
+     <Preference
+         android:title="@string/six_log_title"
+         android:summary="@string/six_log_summary">
+     <intent android:action="android.intent.action.VIEW"
+         android:data="@string/six_log_link" />
+     </Preference>
+
+     <PreferenceCategory
+        android:title="@string/weblinks_category">
+
+        <Preference
+            android:title="@string/six_downloads_title"
+            android:summary="@string/six_downloads_summary">
+        <intent android:action="android.intent.action.VIEW"
+                android:data="@string/six_downloads_link" />
+        </Preference>
+
+        <Preference
+            android:title="@string/six_telegram_title"
+            android:summary="@string/six_telegram_summary">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="@string/six_telegram_link" />
+        </Preference>
+
+        <Preference
+            android:title="@string/g_plus_title"
+            android:summary="@string/g_plus_summary">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="@string/g_plus_link" />
+        </Preference>
+
+        <!--<Preference
+            android:title="@string/six_github_title"
+            android:summary="@string/six_github_summary">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="@string/six_github_link" />
+        </Preference>-->
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
