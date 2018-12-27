@@ -1391,7 +1391,7 @@
     <string name="device_maintainer_default">R3Ds</string>
 
     <!-- QS background opacity -->
-    <string name="qs_panel_alpha_title">Opacity</string>
+    <string name="qs_panel_alpha_title">QS Panel opacity</string>
 
     <!-- Recents icon pack -->
     <string name="recents_icon_pack_title">Icon pack</string>
@@ -1399,5 +1399,13 @@
     <string name="no_iconpacks_summary">No icon packs installed</string>
     <string name="dialog_pick_iconpack_title">Pick icon pack</string>
     <string name="default_iconpack_title">Default icons</string>
+
+    <!-- QS themes -->
+    <string name="qs_themes_category_title">QS Themes</string>
+    <string name="qs_panel_color_title">QS Panel color</string>
+    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
+    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
+    <string name="qs_bg_use_fw">Use default colors</string>
+    <string name="qs_bg_use_fw_summary">Disable custom QS styles for external theme engines</string>
 
 </resources>
