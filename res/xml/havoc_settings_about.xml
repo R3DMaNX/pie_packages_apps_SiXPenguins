@@ -25,19 +25,22 @@
          android:data="https://github.com/SiX-Pie" />
      </PreferenceScreen>
 
+     <!-- Six OTA -->
+    <PreferenceScreen
+            android:key="six_ota"
+            android:title="@string/six_ota_title"
+            android:summary="@string/six_ota_summary">
+            <intent android:action="android.intent.action.MAIN"
+                    android:targetPackage="com.six.ota"
+                    android:targetClass="com.six.ota.MainActivity" />
+        </PreferenceScreen>
+
      <!-- Six Changelog -->
      <Preference 
          android:key="six_changelog"
          android:title="@string/changelog_title"
          android:summary="@string/changelog_summary"
          android:fragment="com.android.settings.six.Changelog" />
-
-     <Preference
-         android:title="@string/six_log_title"
-         android:summary="@string/six_log_summary">
-     <intent android:action="android.intent.action.VIEW"
-         android:data="@string/six_log_link" />
-     </Preference>
 
      <PreferenceCategory
         android:title="@string/weblinks_category">
@@ -68,6 +71,13 @@
             android:summary="@string/six_github_summary">
             <intent android:action="android.intent.action.VIEW"
                 android:data="@string/six_github_link" />
+        </Preference>-->
+
+        <!--<Preference
+            android:title="@string/six_log_title"
+            android:summary="@string/six_log_summary">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="@string/six_log_link" />
         </Preference>-->
 
     </PreferenceCategory>

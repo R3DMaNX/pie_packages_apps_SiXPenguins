@@ -1362,6 +1362,10 @@
     <string name="usb_default_config_title">USB configuration</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
 
+    <!-- OTA updates -->
+    <string name="six_ota_title">Update center</string>
+    <string name="six_ota_summary">Check for six updates</string>
+
     <!-- About -->
     <string name="about_summary">Information about six pie rom</string>
     <string name="weblinks_category">Helpful links</string>
@@ -1383,8 +1387,6 @@
     <string name="six_downloads_title">Downloads</string>
     <string name="six_downloads_summary">Visit the six pie rom AFH download page</string>
     <string name="six_downloads_link" translatable="false">"https://tinyurl.com/ydxa4xry"</string>
-    <string name="six_ota_title">Update center</string>
-    <string name="six_ota_summary">Check for six updates</string>
     <string name="stats_title">Statistics</string>
     <string name="stats_summary">(PLACEHOLDER) Opt in/out for anonymous stats</string>
     <string name="device_maintainer_title">Six maintainer</string>
