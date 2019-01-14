@@ -1418,4 +1418,8 @@
     <string name="switch_md2">Material Design 2</string>
     <string name="switch_oneplus">OnePlus</string>
 
+    <!-- QS edit -->
+    <string name="qs_edit_title">Edit icon</string>
+    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+
 </resources>
